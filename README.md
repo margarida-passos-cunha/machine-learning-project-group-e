@@ -8,12 +8,12 @@
 
 | # | Name | Student ID |
 |---|------|------------|
-| 1 | <!-- Name --> | <!-- ID --> |
-| 2 | <!-- Name --> | <!-- ID --> |
-| 3 | <!-- Name --> | <!-- ID --> |
-| 4 | <!-- Name --> | <!-- ID --> |
-| 5 | <!-- Name --> | <!-- ID --> |
-| 6 | <!-- Name --> | <!-- ID --> |
+| 1 | HAZAL AKSU | 74918 |
+| 2 | Margarida Cunha | 71119 |
+| 3 | Miguel Sardo | 71929 |
+| 4 | Milena Kurtiak | 71261 |
+| 5 | Selin Gencer | 71414 |
+| 6 | Rafaela Castro | 71923 |
 
 ---
 
